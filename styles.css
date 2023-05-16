@@ -1,0 +1,39 @@
+/* h1 {
+  color: blue;
+}
+h2 {
+  color: white;
+  background-color: blue;
+}
+
+span {
+  font-size: 200%;
+} */
+/* h1 {
+  background-color: green;
+} */
+* {
+  background-color: rgb(240, 243, 255);
+}
+h2 + p {
+  color: brown;
+}
+.list > li {
+  list-style: none;
+}
+p {
+  font-size: 200%;
+}
+ul {
+  font-size: 150%;
+}
+h2 ~ p {
+  background-color: yellow;
+}
+a[href^="https"] {
+  color: red;
+}
+
+ul + p {
+  font-size: 24px;
+}
